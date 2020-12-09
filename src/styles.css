@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.clear-button {
+  margin-top: 25px;
+  padding: 5px;
+  font-size: 1.1rem;
+  outline: none;
+}
