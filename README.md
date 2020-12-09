@@ -1,2 +1,3 @@
 # Emoji-translator
-Created with CodeSandbox
+
+Translate animal emojis!
